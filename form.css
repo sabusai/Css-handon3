@@ -1,0 +1,194 @@
+#container{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+}
+.fruit{
+    display: block;
+    color: brown;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 28px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 450px;
+    height: 180px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+#flex container{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+}
+.address{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color: brown;
+    background-color: white;
+    border: 5px solid rgb(225, 38, 38);
+    border-radius: 28px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 230px;
+    height: 200px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    right: 480px;
+}
+.box{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    border: 5px solid rgb(225, 38, 38);
+    border-radius: 28px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 5px;
+    display: block;
+    text-align: center;
+    width: 230px;
+    height: 200px;
+    object-fit: fill;
+    position: relative;
+    bottom: 230px;
+    left: 480px;
+}
+.request{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color: brown;
+    background-color: white;
+    border: 5px solid rgb(225, 38, 38);
+    border-radius: 28px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 230px;
+    height: 200px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top: 226px;
+    right: 477px;
+}
+.form{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color: brown;
+    background-color: white;
+    border: 5px solid rgb(225, 38, 38);
+    border-radius: 28px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 230px;
+    height: 200px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 0px;
+    left:480px;
+}
+#detail{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color:black;
+    background-color: green;
+    border: 5px solid purple;
+    margin: 10px auto;
+    padding: 5px;
+    width: 600px;
+    height: 470px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+}
+.item{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color:black;
+    background-color:rgb(205, 205, 60);
+    margin: 10px auto;
+    padding: 5px;
+    width: 285px;
+    height: 200px;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    right:156px;
+}
+.item1{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color:black;
+    background-color:rgb(205, 205, 60);
+    margin: 10px auto;
+    padding: 5px;
+    width: 285px;
+    height: 200px;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+   bottom: 220px;
+    left: 156px;
+}
+.item2{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    display: block;
+    color:black;
+    background-color:rgb(205, 205, 60);
+    margin: 10px auto;
+    padding: 5px;
+    width: 600px;
+    height: 200px;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+   bottom: 220px;
+    right: 5px;
+}
+#fixed{
+    display: flex;
+    flex-wrap: unset;
+    justify-content: space-evenly;
+    border: 5px solid rgb(225, 38, 38);
+    border-radius: 28px;
+    background-color: greenyellow;
+    margin: 10px auto;
+    padding: 5px;
+    display: block;
+    text-align: center;
+    width: 400px;
+    height: 50px;
+    font-style: oblique;
+    font-size: 18px;
+    font-weight: 900;
+    position:fixed;
+    bottom:0px;
+    left: 420px;
+}
